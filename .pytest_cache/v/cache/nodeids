@@ -1,0 +1,5 @@
+[
+  "tests/test_one_math_stats.py::TestStats::test_basic",
+  "tests/test_one_math_stats.py::TestStats::test_empty",
+  "tests/test_one_math_stats.py::TestStats::test_type_error"
+]
